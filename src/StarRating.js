@@ -48,6 +48,7 @@ function Star({ onRate, full }) {
     <span
       style={starStyle}
       onClick={onRate}
+      on
       onMouseEnter={() => console.log("Enter")}
       onMouseLeave={() => console.log("Leave")}
     >
