@@ -1,3 +1,4 @@
 # POPCORN
 
-![Uploading Screenshot 2024-07-17 at 12.37.54 PM.png…]()
+
+![project demo image](https://github.com/tanymokal2002/1-Stop-Watch-JS-Project/blob/main/image.png)
