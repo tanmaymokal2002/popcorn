@@ -24,7 +24,7 @@ function StarRating({ maxRating = 5, color = "#fcc419", size = 40 }) {
     lineHeight: "1",
     margin: "0",
     color,
-    fontSize: "2.5rem",
+    fontSize: "2rem",
     fontWeight: "bold",
   };
 
